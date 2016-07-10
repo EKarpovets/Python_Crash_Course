@@ -1,0 +1,6 @@
+In Python you can create variables.
+In Python you can create classes.
+In Python you can create functions.
+In Python you can print statements.
+In Python you can ask users to input information.
+In Python you can process the received information.
